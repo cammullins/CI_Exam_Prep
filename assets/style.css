@@ -1,0 +1,10 @@
+#loginreg fieldset{
+	display: inline-block;
+	vertical-align: top;
+}
+#loginreg label, #loginreg input{
+	display: block;
+}
+.red {
+	color: red;
+}
