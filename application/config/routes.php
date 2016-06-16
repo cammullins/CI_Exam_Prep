@@ -39,7 +39,7 @@
 */
 
 $route['default_controller'] = "loginReg";
-$route['404_override'] = '';
+$route['404_override'] = 'users';
 
 
 /* End of file routes.php */
